@@ -7,7 +7,7 @@ int main()
 	fstream fin,fout;
 	//Writing into a File
 	fout.open("Task2.txt",ios::out);
-	fout<<"My name Is  Yogendra Samant\n";
+	fout<<"My name Is  Yogendra Chand\n";
 	fout<<"I Am from Sec. A\n";
 	fout<<"Student ID: 20012459\n";
 	fout.close();

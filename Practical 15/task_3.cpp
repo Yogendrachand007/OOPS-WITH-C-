@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
 	int d=100; 
-	string s="   Yogendra Samant";
+	string s="   Yogendra Chand";
 	cout<<"hexadecimal: "<<hex<<d<<endl;
 	cout<<"Decimal: "<<dec<<d<<endl;
 	

@@ -7,7 +7,7 @@ int main()
 	ifstream fin;
 	ofstream fout;
 	fout.open("Task1.txt");
-	fout<<"Yogendra Samant\n";
+	fout<<"Yogendra Chand\n";
 	fout<<"Sec. A\n";
 	fout<<"Student ID: 20012459\n";
 	fout.close();
